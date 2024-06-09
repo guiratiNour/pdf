@@ -37,4 +37,5 @@ public class Reservation {
 
     private String etat;
     private String nbRooms;
+    
 }
